@@ -21,3 +21,4 @@
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
+![text for me to know](https://github.com/Bulzeye89/Kickstarter_challenge/blob/main/Resources/Outcomes_vs_Goals.png)
